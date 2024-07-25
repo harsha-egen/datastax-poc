@@ -1,0 +1,18 @@
+langchain-astradb
+langchain 
+langchain-openai
+langchain_core
+langchain_community
+langchain-objectbox
+langserve
+fastapi
+groq
+bs4
+sse_starlette
+wikipedia
+langchainhub
+datasets
+pypdf
+python-dotenv
+flask
+-e .
